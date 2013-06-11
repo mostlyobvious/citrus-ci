@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["pawel.pacana@syswise.eu"]
   spec.description   = %q{Citrus continous integration meta package.}
   spec.summary       = %q{Citrus continous integration meta package.}
-  spec.homepage      = ""
+  spec.homepage      = "http://citrus-ci.org"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
